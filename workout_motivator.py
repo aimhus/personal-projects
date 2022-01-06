@@ -5,6 +5,7 @@ import tkinter as tk
 import random as rand
 import time
 
+# git test
 
 class Motivator:
     def __init__(self,work_set,end_time,clock_increment,interval):
